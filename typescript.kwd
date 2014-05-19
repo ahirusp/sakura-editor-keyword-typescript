@@ -1,0 +1,35 @@
+﻿// TypeScript キーワード定義ファイル
+// CASE=False
+
+any
+array
+boolean
+class
+constructor
+declare
+enum
+export
+extends
+false
+for
+function
+if
+implements
+import
+in
+interface
+module
+new
+null
+number
+private
+public
+return
+static
+string
+super
+this
+true
+typeof
+var
+void
